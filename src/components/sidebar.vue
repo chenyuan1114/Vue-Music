@@ -3,9 +3,9 @@
     <div class="sidebar-con" :class="{showbar: showSidebar}">
       <div class="head">
         <div class="avatar">
-          <img src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1919326320,3728667730&fm=26&gp=0.jpg" alt="">
+          <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1561046688237&di=9ece1392d3c71cede7157cbf3f352de7&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201706%2F24%2F20170624092527_5GHfi.thumb.700_0.jpeg" alt="">
         </div>
-        <div class="name">蜗牛</div>
+        <div class="name">清欢</div>
       </div>
       <div class="menu">
         <ul>
